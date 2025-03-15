@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "ff";
+    std::cout << "mir tankov";
 }
